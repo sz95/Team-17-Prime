@@ -121,6 +121,6 @@ b)	I understand that I am obligated to abide by these terms and conditions.
 c)	I understand that if I do not abide by these terms and conditions, I will suffer the consequences as stated in this contract.
 
 1) Michael Xiao  | date 8/29/18
-2) _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _  date  _ _ _ _ _ _ _ _ _
+2) Natan Vidra | date 8/29/18
 3) _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _  date  _ _ _ _ _ _ _ _ _
 4) _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _  date  _ _ _ _ _ _ _ _ _
