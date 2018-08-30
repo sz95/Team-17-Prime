@@ -2,7 +2,8 @@
 
 ## Internal Blink
 
-![external led](/images/lab1/external_led_blink.gif)
+![internal led](/images/lab1/led_internal.gif)
+
 
 ~~~
 void setup() {
@@ -20,6 +21,9 @@ void loop() {
 ~~~
 
 ## External Blink
+
+![external led](/images/lab1/external_led_blink.gif)
+
 ~~~
 void setup() {
   // initialize digital pin LED_BUILTIN as an output.
@@ -36,6 +40,9 @@ void loop() {
 ~~~
 
 ## Potentiometer Serial Read
+
+![external led](/images/lab1/pot_serial.gif)
+
 ~~~
 int sensorPin = A0;
 int sensorValue=0;
@@ -56,6 +63,9 @@ void loop() {
 ~~~
 
 ## Potentiometer to LED
+
+![external led](/images/lab1/pot_led.gif)
+
 ~~~
 int sensorPin = A0;
 int sensorValue=0;
@@ -72,8 +82,13 @@ void loop() {
   analogWrite(9, sensorValue/4);   // turn the LED on (HIGH is the voltage level)
   delay(5);                       // wait for a second
 }
+~~~
 
 ## Potentiometer to Servo
+
+![external led](/images/lab1/pot_motor.gif)
+
+~~~
 #include <Servo.h>
 Servo myservo; 
 
@@ -96,7 +111,12 @@ void loop() {
 }
 ~~~
 
-## Square
+## Robot Assembly and Driving in a Square
+
+![external led](/images/lab1/roobt.jpg)
+
+https://drive.google.com/file/d/1TNmG1FMpcSOZAJzGpEx64XWEyMJwZd1h/view?usp=sharing
+
 ~~~
 #include <Servo.h>
 Servo left;
