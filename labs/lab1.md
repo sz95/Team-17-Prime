@@ -1,4 +1,4 @@
-![led](/images/ezgif.com-crop.gif)
+![led](/images/lab1/external_led_blink.gif)
 
 ## Internal Blink
 ~~~
