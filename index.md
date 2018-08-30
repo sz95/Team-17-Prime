@@ -5,4 +5,4 @@
 * Natan Vidra (nv78)
 * Marcela Maria Rey (mmr244)
 
-![imgur](https://i.imgur.com/E5DWtpp.gif)
+![blink](/images/lab1/pot_led.gif)
