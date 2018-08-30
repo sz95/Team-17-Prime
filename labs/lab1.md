@@ -41,7 +41,7 @@ void loop() {
 
 ## Potentiometer Serial Read
 
-![external led](/images/lab1/pot_serial.gif)
+![potentiometer to serial port](/images/lab1/pot_serial.gif)
 
 ~~~
 int sensorPin = A0;
@@ -64,7 +64,7 @@ void loop() {
 
 ## Potentiometer to LED
 
-![external led](/images/lab1/pot_led.gif)
+![potentiometer to LED intensity](/images/lab1/pot_led.gif)
 
 ~~~
 int sensorPin = A0;
@@ -86,7 +86,7 @@ void loop() {
 
 ## Potentiometer to Servo
 
-![external led](/images/lab1/pot_motor.gif)
+![potentiometer to servo motor](/images/lab1/pot_motor.gif)
 
 ~~~
 #include <Servo.h>
@@ -113,7 +113,7 @@ void loop() {
 
 ## Robot Assembly and Driving in a Square
 
-![external led](/images/lab1/roobt.jpg)
+![assembled robot](/images/lab1/robot.jpg)
 
 https://drive.google.com/file/d/1TNmG1FMpcSOZAJzGpEx64XWEyMJwZd1h/view?usp=sharing
 
