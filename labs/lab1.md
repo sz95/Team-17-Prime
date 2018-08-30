@@ -85,3 +85,46 @@ void loop() {
   myservo.write(sensorValue); 
   delay(15);                       // wait 
 }
+
+## Square
+
+#include <Servo.h>
+Servo left;
+Servo right; 
+
+int sensorPin = A0;
+int sensorValue=0;
+
+void setup() {
+  left.attach(10);
+  right.attach(9);  
+  Serial.begin(9600);
+  
+}
+
+// the loop function runs over and over again forever
+void loop() {
+  forward();
+  delay(2000);
+  turn();
+  delay(1350);
+  
+}
+
+void forward() {
+  left.write(95);
+  right.write(85);
+  
+}
+
+void back() {
+  right.write(95);
+  left.write(85);
+  
+}
+
+void turn() {
+  right.write(95);
+  left.write(95);
+}
+
