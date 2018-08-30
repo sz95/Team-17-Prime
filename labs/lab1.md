@@ -1,4 +1,7 @@
+![led](images/ezgif.com-crop.gif)
+
 ## Internal Blink
+~~~
 void setup() {
   // initialize digital pin LED_BUILTIN as an output.
   pinMode(LED_BUILTIN, OUTPUT);
@@ -11,9 +14,10 @@ void loop() {
   digitalWrite(LED_BUILTIN, LOW);    // turn the LED off by making the voltage LOW
   delay(1000);                       // wait for a second
 }
+~~~
 
 ## External Blink
-
+~~~
 void setup() {
   // initialize digital pin LED_BUILTIN as an output.
   pinMode(8, OUTPUT);
@@ -26,9 +30,10 @@ void loop() {
   digitalWrite(8, LOW);    // turn the LED off by making the voltage LOW
   delay(1000);                       // wait for a second
 }
+~~~
 
 ## Potentiometer Serial Read
-
+~~~
 int sensorPin = A0;
 int sensorValue=0;
 
@@ -45,9 +50,10 @@ void loop() {
   delay(1000);                       // wait for a second
 
 }
+~~~
 
 ## Potentiometer to LED
-// the setup function runs once when you press reset or power the board
+~~~
 int sensorPin = A0;
 int sensorValue=0;
 void setup() {
@@ -85,9 +91,10 @@ void loop() {
   myservo.write(sensorValue); 
   delay(15);                       // wait 
 }
+~~~
 
 ## Square
-
+~~~
 #include <Servo.h>
 Servo left;
 Servo right; 
@@ -127,4 +134,4 @@ void turn() {
   right.write(95);
   left.write(95);
 }
-
+~~~
