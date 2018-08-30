@@ -1,6 +1,9 @@
-![led](/images/lab1/external_led_blink.gif)
+
 
 ## Internal Blink
+
+![external led](/images/lab1/external_led_blink.gif)
+
 ~~~
 void setup() {
   // initialize digital pin LED_BUILTIN as an output.
