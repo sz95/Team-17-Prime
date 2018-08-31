@@ -4,8 +4,8 @@
 tbd
 ### Agenda
 * Website
-** Pick a theme
-** Bio's for everyone?
+  * Pick a theme
+  * Bio's for everyone?
 * Github setup for code sharing
 
 ### Minutes
