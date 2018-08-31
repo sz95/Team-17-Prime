@@ -4,6 +4,7 @@
 * Zoe Du (jd963)
 * Natan Vidra (nv78)
 * Marcela Maria Rey (mmr244)
+
 [Team Contract](https://3400-17.github.io/Team-17-Prime/contract)
 
 ## Labs
