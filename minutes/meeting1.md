@@ -1,5 +1,12 @@
 # Meeting 1
-## place, time
-### attendance
+## Upson 165, 11:15am-12:05pm
+### Attendance
+Everybody but Natan.
 
-* team contract
+### Minutes
+* Start team contract
+* New team member! Hi Gururaj!
+* Team contract revision
+* Gururaj leaves group :(
+* Finish contract and sign it.
+
