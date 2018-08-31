@@ -8,10 +8,10 @@
 [Team Contract](https://3400-17.github.io/Team-17-Prime/contract)
 
 ## Labs
-[lab1](https://3400-17.github.io/Team-17-Prime/labs/lab1)
+[Lab 1](https://3400-17.github.io/Team-17-Prime/labs/lab1)
 
  
 
 
-## Minutes
-
+## Agenda and Minutes
+[Meeting 1](https://3400-17.github.io/Team-17-Prime/minutes/meeting1)
