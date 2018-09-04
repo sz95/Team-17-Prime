@@ -16,4 +16,5 @@
 
 ## Agenda and Minutes
 [Meeting 1](https://3400-17.github.io/Team-17-Prime/minutes/meeting1)
+
 [Meeting 2](https://3400-17.github.io/Team-17-Prime/minutes/meeting2)
