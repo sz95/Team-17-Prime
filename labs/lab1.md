@@ -1,8 +1,13 @@
+# Lab 1: Introduction to Arduino and Robot Assembly
 
+## Goal
+
+The goal of this Lab was to learn how to use the Arduino Uno and the Arduino IDE.  We did so through implementing the following procedures, that all came together to allow us to have our robot complete a simple, autonomous task.
 
 ## Internal Blink
 
-![internal led](/images/lab1/led_internal.gif)
+[Watch the video!](https://drive.google.com/file/d/1AitKiP5LDuS085Qc87MSYno-bPexnUOw/view?usp=sharing)
+
 
 
 ~~~
