@@ -1,4 +1,5 @@
 # ECE 3400: Intelligent Physical Systems
+
 ## Team 17: Prime
 * Michael Xiao (mfx2)
 * Zoe Du (jd963)
