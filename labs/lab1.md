@@ -14,11 +14,9 @@
 
 ## Internal Blink
 
-
-
-[Watch the video!](https://drive.google.com/file/d/1AitKiP5LDuS085Qc87MSYno-bPexnUOw/preview)
 Using the "Blink" code in File>Examples>1.Basics> Blink of Arduino IDE, we could make the internal LED blink. 
 
+<iframe src="https://drive.google.com/file/d/1AitKiP5LDuS085Qc87MSYno-bPexnUOw/preview" width="640" height="480"></iframe>
 
 
 ~~~
@@ -38,6 +36,7 @@ void loop() {
 
 ## External Blink
 
+The external LED was connected in series with a 1k ohm resistor from pin8 to ground on the Arduino as seen below. 
 ![external led](/images/lab1/external_led_blink.gif)
 
 ~~~
