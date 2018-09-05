@@ -27,7 +27,7 @@ void loop() {
 
 ## External Blink
 
-![external led](/images/lab1/external_led_blink.gif)
+[external led](/images/lab1/external_led_blink.gif)
 
 ~~~
 void setup() {
