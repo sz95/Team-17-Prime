@@ -55,7 +55,7 @@ void loop() {
 ~~~
 
 ## Potentiometer Serial Read
-
+We connected the potentiometer to the Arduino like so:
 ![potentiometer to serial port](/images/lab1/pot_serial.gif)
 
 ~~~
