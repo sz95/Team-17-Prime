@@ -2,9 +2,9 @@
 
 ### Objectives
 
-*Learn how to use the Arduino Uno and the Arduino IDE.
-*Construct a simple Arduino program with multiple components and the Arduino Uno
-*Assemble robot and complete a simple, autonomous task.
+* Learn how to use the Arduino Uno and the Arduino IDE.
+* Construct a simple Arduino program with multiple components and the Arduino Uno
+* Assemble robot and complete a simple, autonomous task.
 
 
 ### Teams
@@ -58,8 +58,9 @@ void loop() {
 ## Potentiometer Serial Read
 We connected the potentiometer to the Arduino like so:
 ![potentiometer to serial port](/images/lab1/pot_serial.gif)
+We then moditied the 'sensorPin' to be the zeroth pin of the analog pins, and set the sensor value to be 0. 
 
-~~~
+```cpp
 int sensorPin = A0;
 int sensorValue=0;
 
@@ -67,7 +68,9 @@ void setup() {
 
   Serial.begin(9600);
 }
-
+```
+We read the sensor value in an "analogRead' call:
+```cpp
 // the loop function runs over and over again forever
 void loop() {
   sensorValue = analogRead(sensorPin);
@@ -76,7 +79,7 @@ void loop() {
   delay(1000);                       // wait for a second
 
 }
-~~~
+```
 
 ## Potentiometer to LED
 
