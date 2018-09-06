@@ -9,6 +9,7 @@
 
 ### Teams
 **Team 1**: Zoe, Michael
+
 **Team 2**: Natan, Marcela, Siming
 
 
